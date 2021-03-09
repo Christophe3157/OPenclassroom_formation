@@ -1,0 +1,4 @@
+Pour utiliser votre avoir, lors du passage de votre commande, il suffit de préciser dans la case "Je voudrais ajouter un commentaire concernant ma commande" que vous êtes titulaire d'un avoir et que vous souhaitez l'utliser pour cette commande.
+
+La déduction ne va pas apparaitre tout de suite, elle apparait dans votre confirmation de commande .
+Notez que nous débitons les CB/Paypal seulement au moment de l´expédition de votre commande, le montant débité se réajuste au moment du traitement de votre commande par nos soins.
